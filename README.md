@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/ho1112">
-    <img src="https://github-readme-stats.vercel.app/api?username=ho1112&show_icons=true&theme=tokyonight&rank_icon=github" alt="ho1112's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho1112&layout=compact&theme=tokyonight" alt="ho1112's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ho1112&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=3600" alt="ho1112's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho1112&layout=compact&theme=tokyonight&cache_seconds=3600" alt="ho1112's Top Languages" />
   </a>
 </p>
 
